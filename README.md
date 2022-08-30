@@ -22,5 +22,5 @@ password- 12345
 confirm password- 12345
 
 ### db_credentials:
-database name = 'user_db'
+database_name = 'user_db'
 table_name = 'user_form'
