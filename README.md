@@ -1,18 +1,18 @@
 # guvi_project
-
 Thank you guvi for giving me this opportunity to work on this usecase!
 
-Create a signup page where a user can login or create a signup by filling the user details 
+### Objective
+Created a signup page where a user can login or create a signup by filling the user details 
 after successful registration login  will be redirect to a profile page 
 which will contain the user name with a greeting message.
 
 ### Files attached in this link:
-register.php
-login.php
-config.php
-guvibg.png
-style.css
-style.scss
+register.php <br>
+login.php <br>
+config.php <br>
+guvibg.png <br>
+style.css <br>
+style.scss <br>
 
 
 ### Test_signin_credentials:
