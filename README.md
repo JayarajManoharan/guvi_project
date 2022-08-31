@@ -1,6 +1,6 @@
 # guvi_project
 
-Thankyou for giving me this project!
+Thank you guvi for giving me this opportunity to work on this usecase!
 
 Create a signup page where a user can login or create a signup by filling the user details 
 after successful registration login  will be redirect to a profile page 
