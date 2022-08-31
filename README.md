@@ -12,6 +12,6 @@ guvibg.png <br>
 style.css <br>
 style.scss <br>
 
-### db_credentials:
+### Metadata info:
 database_name = 'user_db' <br>
 table_name = 'user_form' <br>
