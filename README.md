@@ -14,13 +14,6 @@ guvibg.png <br>
 style.css <br>
 style.scss <br>
 
-
-### Test_signin_credentials:
-username- guvi
-email- guvi@gmail.com
-password- 12345
-confirm password- 12345
-
 ### db_credentials:
-database_name = 'user_db'
-table_name = 'user_form'
+database_name = 'user_db' <br>
+table_name = 'user_form' <br>
